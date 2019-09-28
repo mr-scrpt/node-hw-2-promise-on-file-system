@@ -11,7 +11,7 @@ const getFirsLiters = require('./getFirstLiters');
 const dirMaker = require('./dirMaker');
 
 const readDir = async(base, dest, del = false) => {
-  console.log(typeof del);
+
   try {
     let list = await readdir(base);
 
