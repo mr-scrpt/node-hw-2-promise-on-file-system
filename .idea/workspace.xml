@@ -2,30 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a679cf6-0516-459e-9d46-8b1d9912fa3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/self_modules/access.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newtest/a/arbuz.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newtest/a/arhitektura.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newtest/c/cvetok.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newtest/d/dom.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newtest/k/kamni.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newtest/k/kaplja.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newtest/k/kit.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newtest/l/les.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newtest/l/lev.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newtest/m/most.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newtest/p/pautina.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newtest/p/podsolnuh.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newtest/p/pole.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newtest/p/popugaja.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newtest/r/reka.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newtest/s/steklo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newtest/s/svet.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newtest/v/volk.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newtest/z/zima.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/self_modules/access.js" beforeDir="false" afterPath="$PROJECT_DIR$/self_modules/access.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/self_modules/dirMaker.js" beforeDir="false" afterPath="$PROJECT_DIR$/self_modules/dirMaker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/self_modules/readDir.js" beforeDir="false" afterPath="$PROJECT_DIR$/self_modules/readDir.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569663975064</updated>
-      <workItem from="1569663976355" duration="13678000" />
+      <workItem from="1569663976355" duration="14976000" />
     </task>
     <servers />
   </component>
