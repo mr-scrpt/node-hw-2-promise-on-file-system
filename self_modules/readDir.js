@@ -10,7 +10,7 @@ const copyFile = require('./copyFile');
 const getFirsLiters = require('./getFirstLiters');
 const dirMaker = require('./dirMaker');
 
-const readDir = async(base, dest, del = false) => {
+const readDir = async({del, base, dest}, onFile, onDir) => {
 
   try {
     let list = await readdir(base);
@@ -20,18 +20,14 @@ const readDir = async(base, dest, del = false) => {
       const stats = await stat(targetPath);
 
       if(stats && stats.isDirectory()){
-        await readDir(targetPath, dest, del);
-        del === 'true' ? await rmdir(targetPath) : null;
+        const options = {base: targetPath, dest: dest, del: del};
+        await readDir(options, onFile, onDir);
+
+        await onDir(it, dest, targetPath, del);
+
       }else {
+        await onFile(it, dest, targetPath, del)
 
-        const firstLater = getFirsLiters(it);
-        const destDir = path.join(dest, firstLater);
-        const destFile = path.join(destDir, it);
-        await dirMaker(destDir, dest);
-
-        const name = await copyFile(targetPath, destFile);
-        console.log(`Файл ${name} скопирован успешно`);
-        del === 'true' ? await unlink(targetPath) : null;
       }
 
     }

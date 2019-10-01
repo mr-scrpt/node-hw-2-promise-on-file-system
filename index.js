@@ -1,9 +1,10 @@
-const fs = require('fs');
-const path = require('path');
+
 const program = require('commander');
 
 
 const readDir = require('./self_modules/readDir');
+const onFile= require('./self_modules/onFile');
+const onDir = require('./self_modules/onDir');
 
 program
   .option('-f, --from <from>', 'расположение файлов', './sources')
@@ -11,7 +12,10 @@ program
   .option('-d, --del <del>', 'Удалять исходники?', false);
 program.parse(process.argv);
 
-const dir = {base: program.from, direction: program.to};
+const options = {base: program.from, dest: program.to, del: program.del};
 
-
-readDir(dir.base, dir.direction, program.del);
+readDir(
+  options,
+  onFile,
+  onDir
+);
