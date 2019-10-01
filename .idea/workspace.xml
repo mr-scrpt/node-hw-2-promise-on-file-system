@@ -2,50 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a679cf6-0516-459e-9d46-8b1d9912fa3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/self_modules/onDir.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/self_modules/onFile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/a/arbuz.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/a/arhitektura.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/c/cvetok.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/d/dom.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/k/kamni.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/k/kaplja.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/k/kit.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/l/les.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/l/lev.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/m/most.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/p/pautina.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/p/podsolnuh.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/p/pole.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/p/popugaja.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/r/reka.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/s/steklo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/s/svet.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/v/volk.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/z/zima.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/self_modules/dirMaker.js" beforeDir="false" afterPath="$PROJECT_DIR$/self_modules/dirMaker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/self_modules/onDir.js" beforeDir="false" afterPath="$PROJECT_DIR$/self_modules/onDir.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/self_modules/onFile.js" beforeDir="false" afterPath="$PROJECT_DIR$/self_modules/onFile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/self_modules/readDir.js" beforeDir="false" afterPath="$PROJECT_DIR$/self_modules/readDir.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources/arbuz.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources/stok1/new/steklo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources/stok1/new/svet.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources/stok1/new/volk.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources/stok1/new/zima.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources/stok1/pole.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources/stok1/popugaja.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources/stok1/reka.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources/stok2/arhitektura.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources/stok2/cvetok.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources/stok2/new/new-new/kit.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources/stok2/new/new-new/les.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources/stok2/new/new-new/lev.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources/stok2/new/new-new/most.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources/stok2/new/new-new/pautina.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources/stok2/new/new-new/podsolnuh.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources/stok2/old/dom.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources/stok2/old/kamni.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources/stok2/old/kaplja.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569663975064</updated>
       <workItem from="1569663976355" duration="14976000" />
-      <workItem from="1569786010283" duration="4356000" />
+      <workItem from="1569786010283" duration="7456000" />
     </task>
     <servers />
   </component>

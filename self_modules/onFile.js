@@ -16,7 +16,7 @@ const onFile = async (it,dest, targetPath, del) => {
   const name = await copyFile(targetPath, destFile);
   console.log(`Файл ${name} скопирован успешно`);
 
-  del === 'true' ? await unlink(targetPath) : null;
+  del && await unlink(targetPath);
 };
 
 module.exports = onFile;
